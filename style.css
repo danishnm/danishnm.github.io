@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e9faf8;
+}
+
+#about {
+  padding-top: 6rem;
+}
+
+#contact {
+  background-color: #e9faf8;
+  padding-bottom: 3rem;
+}
+
+footer {
+  background-color: #139288dc;
+  color: white;
+  text-align: center;
+}
+
+.icon {
+  text-decoration: none;
+}
